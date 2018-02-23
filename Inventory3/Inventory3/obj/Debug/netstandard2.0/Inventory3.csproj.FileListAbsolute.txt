@@ -1,0 +1,9 @@
+C:\Users\sohesh\source\repos\Inventory3\Inventory3\bin\Debug\netstandard2.0\Inventory3.deps.json
+C:\Users\sohesh\source\repos\Inventory3\Inventory3\bin\Debug\netstandard2.0\Inventory3.dll
+C:\Users\sohesh\source\repos\Inventory3\Inventory3\bin\Debug\netstandard2.0\Inventory3.pdb
+C:\Users\sohesh\source\repos\Inventory3\Inventory3\obj\Debug\netstandard2.0\Inventory3.csprojResolveAssemblyReference.cache
+C:\Users\sohesh\source\repos\Inventory3\Inventory3\obj\Debug\netstandard2.0\Inventory3.csproj.CoreCompileInputs.cache
+C:\Users\sohesh\source\repos\Inventory3\Inventory3\obj\Debug\netstandard2.0\Inventory3.AssemblyInfoInputs.cache
+C:\Users\sohesh\source\repos\Inventory3\Inventory3\obj\Debug\netstandard2.0\Inventory3.AssemblyInfo.cs
+C:\Users\sohesh\source\repos\Inventory3\Inventory3\obj\Debug\netstandard2.0\Inventory3.dll
+C:\Users\sohesh\source\repos\Inventory3\Inventory3\obj\Debug\netstandard2.0\Inventory3.pdb
